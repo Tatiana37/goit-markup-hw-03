@@ -191,7 +191,7 @@ color: var(--title-color);
 
 }
 .hero-button{
-  
+  display: block;
   min-width: 200px;
   padding-top: 10px;
   padding-right: 32px;
